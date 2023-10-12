@@ -10,3 +10,8 @@
 #### 09-21-23
 - [Activity 4 - 6](09-21-23/Activities_4-6/)
 - [FlipFlop Challenge](09-21-23/FlipFlop_Challenge/)
+
+#### 10-12-23
+- [Number Array Activity](10-12-23/DataStuct07.java)
+- [Number Array Activity (For Loops)](10-12-23/DataStuct08.java)
+- [String Array Challenge](10-12-23/StringArrayChallenge.java)
