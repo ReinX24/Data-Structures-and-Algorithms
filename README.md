@@ -15,3 +15,6 @@
 - [Number Array Activity](10-12-23/DataStuct07.java)
 - [Number Array Activity (For Loops)](10-12-23/DataStuct08.java)
 - [String Array Challenge](10-12-23/StringArrayChallenge.java)
+
+#### 11-30-23
+- [Java Arrays](11-30-23/ArraysDemo.java)
