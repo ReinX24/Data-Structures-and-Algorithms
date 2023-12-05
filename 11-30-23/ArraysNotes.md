@@ -99,7 +99,7 @@ Different bit values:
 
 - DWord = 32 bits
 
-An integer is an example of a Qubit because it has 4 bytes. The amount of byte is has
+An integer is an example of a Qubit because it has 4 bits. The amount of bits it has
 is categorized in different categories shown above.
 
 Integer Array
